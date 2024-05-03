@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeFormAndValidation</string>
+    <string name="add_medication">Add Medication</string>
+</resources>
