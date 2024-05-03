@@ -17,4 +17,7 @@ Para gestión de estado se utiliza:
 
 # Vista de la aplicación
 
-<img alt="formcompose.jpg" src="app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fformcompose.jpg" width="250 style="margin-inline: auto;"/>
+<img alt="formcompose.jpg" src="app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fformcompose.jpg" width="250"/>
+
+# Fuente
+(Creating a Form using Jetpack Compose and Material Design 3)[https://proandroiddev.com/creating-a-form-using-jetpack-compose-and-material-design-6e18bc63b3d1]
